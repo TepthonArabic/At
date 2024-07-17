@@ -1,4 +1,4 @@
-git clone https://github.com/RRYR7/thesource PPF22
+git clone https://github.com/TepthonArabic/SC PPF22
 cd PPF22
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
