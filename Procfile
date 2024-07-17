@@ -1,1 +1,2 @@
-web: gunicorn app:app --daemon && bash tepub
+web: python -m http.server $PORT
+worker: bash tepub
