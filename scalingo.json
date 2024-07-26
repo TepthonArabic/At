@@ -3,7 +3,7 @@
     "description": "تنصيــب ســورس تيبثــون مجانًــا على منصـة سكالينجـو",
     "addons": ["scalingo-postgresql"],
     "keywords": ["python","ai","application","web","gunicorn","flask","scalingo","port:8080"],
-    "repository": "https://github.com/Tepthonee/SC-Deploy",
+    "repository": "https://github.com/zxaax/SC",
     "logo": "https://graph.org/file/d5c8b6e754f1ca5bd8a32.jpg",
     "stack": "container",
     "env": {
