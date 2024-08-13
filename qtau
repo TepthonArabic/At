@@ -1,5 +1,5 @@
-git clone https://github.com/TepthonArabic/SC PPF22
-cd PPF22
+git clone https://github.com/TepthonArabic/SC qtat
+cd qtat
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
 python3 -m Tepthon
